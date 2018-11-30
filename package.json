@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ianwalter/dracula/issues"
   },
-  "homepage": "https://github.com/ianwalter/dracula#readme"
+  "homepage": "https://github.com/ianwalter/dracula#readme",
+  "devDependencies": {
+    "np": "^3.0.4"
+  }
 }
