@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A customized version of the Dracula theme for highlight.js",
   "main": "dracula.css",
+  "scripts": {
+    "test": "grep '.hljs' dracula.css > /dev/null"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ianwalter/dracula.git"
