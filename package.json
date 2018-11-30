@@ -1,0 +1,22 @@
+{
+  "name": "@ianwalter/dracula",
+  "version": "0.0.0",
+  "description": "A customized version of the Dracula theme for highlight.js",
+  "main": "dracula.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianwalter/dracula.git"
+  },
+  "keywords": [
+    "dracula",
+    "css",
+    "highlight",
+    "hljs"
+  ],
+  "author": "Ian Walter <public@iankwalter.com> (https://iankwalter.com)",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/ianwalter/dracula/issues"
+  },
+  "homepage": "https://github.com/ianwalter/dracula#readme"
+}
