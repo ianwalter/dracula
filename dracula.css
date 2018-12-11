@@ -1,67 +1,25 @@
-pre, .hljs {
-  font-size: 1rem;
-  display: block;
-  overflow-x: auto;
+pre {
+  color: #f8f8f2;
+  font-size: 1.125rem;
   background: #282a36;
 }
-
-.hljs-built_in,
-.hljs-selector-tag,
-.hljs-section,
-.hljs-link {
-  color: #8be9fd;
-}
-
-.hljs-keyword {
+pre .token.operator,
+pre .token.keyword {
   color: #ff79c6;
 }
-
-.hljs,
-.hljs-subst {
-  color: #f8f8f2;
-}
-
-.hljs-title {
-  color: #50fa7b;
-}
-
-.hljs-string,
-.hljs-meta,
-.hljs-name,
-.hljs-type,
-.hljs-attr,
-.hljs-symbol,
-.hljs-bullet,
-.hljs-addition,
-.hljs-variable,
-.hljs-template-tag,
-.hljs-template-variable {
+pre .token.string {
   color: #f1fa8c;
 }
-
-.hljs-comment,
-.hljs-quote,
-.hljs-deletion {
+pre .token.comment {
   color: #6272a4;
 }
-
-.hljs-keyword,
-.hljs-selector-tag,
-.hljs-literal,
-.hljs-title,
-.hljs-section,
-.hljs-doctag,
-.hljs-type,
-.hljs-name,
-.hljs-strong {
-  font-weight: bold;
-}
-
-.hljs-literal,
-.hljs-number {
+pre .token.global {
   color: #bd93f9;
 }
-
-.hljs-emphasis {
-  font-style: italic;
+pre .token.function {
+  color: #50fa7b;
+}
+pre .token.class-name,
+pre .token.function.method {
+  color: #8be9fd;
 }
