@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/ianwalter/dracula#readme",
   "devDependencies": {
-    "np": "^3.0.4"
+    "np": "ianwalter/np"
   }
 }
