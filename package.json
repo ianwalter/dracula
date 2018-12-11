@@ -4,7 +4,7 @@
   "description": "A customized version of the Dracula theme for highlight.js",
   "main": "dracula.css",
   "scripts": {
-    "test": "grep '.hljs' dracula.css > /dev/null"
+    "test": "grep '.token' dracula.css > /dev/null"
   },
   "repository": {
     "type": "git",
